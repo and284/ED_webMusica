@@ -1,0 +1,41 @@
+body {
+    background-color: #f0edf5;
+    font-family: Arial, sans-serif;
+}
+
+.portada {
+    background: linear-gradient(135deg, #24143f, #633b8f);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    margin: 30px auto;
+    max-width: 900px;
+    border-radius: 10px;
+}
+
+.portada h1 {
+    font-size: 38px;
+}
+
+.portada h3 {
+    margin-top: 25px;
+    color: #d8baff;
+}
+
+.portada p {
+    margin: 8px;
+}
+
+.btn-entrar {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background-color: #ad83d8;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.btn-entrar:hover {
+    background-color: #9c6cc9;
+}
